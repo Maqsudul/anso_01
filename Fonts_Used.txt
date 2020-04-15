@@ -1,0 +1,21 @@
+anso_fonts_used
+
+Montserrat Black
+Montserrat ExtraLight
+Poppins Regular
+Poppins Medium
+
+Montserrat Black
+Montserrat Bold
+Montserrat Medium
+Poppins Medium
+
+Poppins Bold
+Poppins Regular
+Poppins Medium
+Poppins Italic
+
+Montserrat Black
+Montserrat Medium
+Montserrat ExtraLight
+Poppins Medium
